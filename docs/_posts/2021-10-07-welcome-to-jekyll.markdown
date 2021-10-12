@@ -1,5 +1,6 @@
 ---
 layout: post
+# layout: default # if using midnight there or any other need to check https://github.com/pages-themes/midnight/blob/master/_layouts/
 title:  "Welcome to Jekyll!"
 date:   2021-10-07 12:48:58 -0500
 categories: jekyll update

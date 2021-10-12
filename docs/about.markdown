@@ -1,5 +1,6 @@
 ---
 layout: page
+# layout: default # if using midnight there or any other need to check https://github.com/pages-themes/midnight/blob/master/_layouts/
 title: About
 permalink: /about/
 ---
