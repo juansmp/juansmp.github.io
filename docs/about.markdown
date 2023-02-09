@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: page # only for minima theme
+# layout: default # For any theme other than minima
 title: About
 permalink: /about/
 ---

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: post # only for minima theme
+# layout: default # For any theme other than minima
 title:  "Welcome to Jekyll!"
 date:   2023-02-09 11:45:13 -0500
 categories: jekyll update
